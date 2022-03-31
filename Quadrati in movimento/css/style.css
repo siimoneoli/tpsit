@@ -1,0 +1,17 @@
+/* Box1 */
+
+#box1{
+height: 100px;
+width: 100px;
+border: 2px solid black;
+position: relative;
+}
+    
+/* Box2 */
+    
+#box2{
+height: 100px;
+width: 100px;
+border: 2px solid black;
+position: relative;
+}
